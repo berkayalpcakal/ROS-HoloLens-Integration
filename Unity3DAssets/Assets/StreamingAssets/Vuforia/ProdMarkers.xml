@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="stones-min" size="0.170000 0.220000" />
+    <ImageTarget name="astronaut" size="0.070000 0.120042" />
+    <ImageTarget name="cloudreco_targets-page-003" size="16.500000 21.352942" />
+    <ImageTarget name="cloudreco_targets-page-002" size="16.500000 21.352942" />
+    <ImageTarget name="cloudreco_targets-page-001" size="16.500000 21.352942" />
+  </Tracking>
+</QCARConfig>

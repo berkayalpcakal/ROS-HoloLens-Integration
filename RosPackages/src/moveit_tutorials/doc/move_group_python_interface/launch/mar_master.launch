@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="mar_master_node" pkg="moveit_tutorials" type="mar_master.py" ns="iiwa" respawn="false" output="screen">
+  </node>
+
+</launch>

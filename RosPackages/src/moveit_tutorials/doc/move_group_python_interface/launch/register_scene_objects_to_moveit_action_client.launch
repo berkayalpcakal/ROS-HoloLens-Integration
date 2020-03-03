@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="register_scene_objects_to_moveit_action_client" pkg="moveit_tutorials" type="register_scene_objects_to_moveit_action_client.py" ns="iiwa" respawn="false" output="screen">
+  </node>
+
+</launch>

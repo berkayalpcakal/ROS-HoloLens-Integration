@@ -1,0 +1,19 @@
+#goal definition
+string[] names
+float64[] positions_x
+float64[] positions_y
+float64[] positions_z
+float64[] orientations_x
+float64[] orientations_y
+float64[] orientations_z
+float64[] orientations_w
+float64[] sizes_x
+float64[] sizes_y
+float64[] sizes_z
+uint8[] mesh
+---
+#result definition
+string log
+---
+#feedback
+string log
